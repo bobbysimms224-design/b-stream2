@@ -83,7 +83,7 @@ export function Footer() {
           <FooterLink icon={Icons.DISCORD} href={conf().DISCORD_LINK}>
             {t("footer.links.discord")}
           </FooterLink>
-          <FooterLink href="https://tenor.com/view/nuh-uh-beocord-no-lol-gif-24435520" icon={Icons.TIP_JAR}>
+          <FooterLink href="https://giphy.com/gifs/tf2-team-fortress-2-nuh-uh-yrZ2FZcwVmPK9dvxsJ" icon={Icons.TIP_JAR}>
             {t("footer.links.funding")}
           </FooterLink>
           <div className="inline md:hidden">
