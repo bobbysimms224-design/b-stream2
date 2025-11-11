@@ -33,7 +33,7 @@
     },
     "q5": {
       "title": "How can I find out more?",
-      "body": "silly-stream has a Discord server that can be found at the header of this page!",
+      "body": "-stream has a Discord server that can be found at the header of this page!",
       "section": "general"
     },
     "q6": {
@@ -543,7 +543,7 @@
           "defaultDescription": "Uses silly-stream's built-in proxy. It's the easiest option but might be slower due to shared bandwidth.",
           "fedapi": {
             "fedapi": "Additional: Febbox token",
-            "fedapiDescription": "Bring your own FREE Febbox account to gain access to FED API and CIA API, the best sources with 4K quality, Dolby Atmos, skip intro and the fastest load times! Highly recommended option!"
+            "fedapiDescription": "Febbox is currently unavaliable"
           },
           "outro": "If you have more questions on how this works, feel free to ask on the <0>silly-stream Discord</0> server!"
         },
